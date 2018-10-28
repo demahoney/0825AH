@@ -2,6 +2,9 @@
 *.pdf
 *.PDF
 
+# Mac junk files
+.DS_Store
+
 # Images should not be stored here either
 *.gif
 *.GIF
